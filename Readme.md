@@ -1,10 +1,12 @@
-//This is an code snippit to translate an entire column in excel or csv file sheet
+// This is an code snippit to translate an entire column in excel or csv file sheet
 
-//just upload your excel or csv file (dataset) to google sheets 
+// just upload your excel or csv file (dataset) to google sheets 
 
-//open Extentions and click Apps Scripts
+// open Extentions and click Apps Scripts
 
-// copy and paste the code with changing the parameters to your liking e "dw the code is commented so it would be easy"
+// Copy and paste the code with changing the parameters to your liking 
+
+// Either the colmns that you need to translate or the languages parameters "dw the code is commented so it would be easy"
 
 // Save and Run 
 

@@ -1,7 +1,7 @@
 function translateColumnDToEnglish() {
     var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
     var sourceRange = sheet.getRange("D2:D225001"); // Specify the range containing the source text (Arabic) you want to translate
-    var targetRange = sheet.getRange("I2:I30"); // Specify the target range where the translated text (English) will be written
+    var targetRange = sheet.getRange("I2:I225001"); // Specify the target range where the translated text (English) will be written
   
     var sourceValues = sourceRange.getValues();
     var translatedValues = [];
